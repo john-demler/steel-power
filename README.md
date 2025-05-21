@@ -94,11 +94,3 @@ A modern full-stack web application to analyze and visualize steel industry powe
 │   └── api/
 │       └── powerAPI.js
 ```
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — free for personal and commercial use.
-
-## 📬 Contact
-
-For questions or feedback, open an issue on the GitHub repository.
